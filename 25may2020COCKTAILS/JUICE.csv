@@ -1,0 +1,677 @@
+name,category,row_id,ingredient_number,ingredient,measure_amt,measure_unit
+Cool Carlos,Cocktail Classics,5,2,Cranberry Juice,2,oz
+Sonic Blaster,Vodka,244,6,Cranberry Juice,1,oz
+Sea Breeze,Vodka,253,2,Cranberry Juice,4,oz
+Robin's Nest,Vodka,272,2,Cranberry Juice,1,oz
+Pretty In Pink,Vodka,344,2,Cranberry Juice,0.5,oz
+Pink Lemonade,Vodka,355,6,Cranberry Juice,2,oz
+Aquarius,Whiskies,367,3,Cranberry Juice,1,oz
+Madras,Vodka,435,2,Cranberry Juice,4,oz
+Jungle Juice,Vodka,481,4,Cranberry Juice,1,oz
+Jackie-O,Vodka,488,5,Cranberry Juice,0.5,oz
+Tahitian Tea,Cocktail Classics,503,6,Cranberry Juice,1,oz
+Cosmopolitan,Vodka,568,4,Cranberry Juice,0.5,oz
+Citronella Cooler,Vodka,572,4,Cranberry Juice,1,oz
+Wiki Waki Woo,Rum - Daiquiris,582,5,Cranberry Juice,1,oz
+The Vacation Cocktail,Rum - Daiquiris,596,5,Cranberry Juice,0.5,oz
+Prohibition Punch,Rum - Daiquiris,685,4,Cranberry Juice,1,oz
+Pink Paradise,Rum - Daiquiris,691,3,Cranberry Juice,3,oz
+Casco Bay Lemonade,Vodka,712,4,Cranberry Juice,1,oz
+Cappuccino Cocktail,Vodka,714,5,Cranberry Juice,5,oz
+Cape Codder,Tequila,715,2,Cranberry Juice,5,oz
+Tequila Canyon,Tequila,789,3,Cranberry Juice,1,oz
+Harvest Nectar,Rum - Daiquiris,878,3,Cranberry Juice,1,oz
+Mexican Madras,Tequila,909,2,Cranberry Juice,2,oz
+Gauguin,Cocktail Classics,1,4,Lime Juice,1,oz
+Fort Lauderdale,Cocktail Classics,2,4,Lime Juice,0.25,oz
+Cuban Cocktail No. 1,Cocktail Classics,4,1,Lime Juice,0.5,oz
+Casa Blanca,Cocktail Classics,8,2,Lime Juice,1.5,oz
+Bacardi Cocktail,Cocktail Classics,12,2,Lime Juice,0.5,oz
+Webster Cocktail,Cocktail Classics,19,1,Lime Juice,0.5,oz
+Jocose Julep,Whiskies,21,3,Lime Juice,1,oz
+Mamie's Sister,Cocktail Classics,56,1,Lime Juice,1,oz
+Irish Rickey,Whiskies,57,2,Lime Juice,0.5,oz
+Green Devil,Cocktail Classics,75,3,Lime Juice,1,oz
+Gimlet,Cocktail Classics,86,1,Lime Juice,1,oz
+Frankenjack Cocktail,Cocktail Classics,88,5,Lime Juice,0.5,oz
+Fog Horn,Cocktail Classics,89,1,Lime Juice,0.5,oz
+Bronx Terrace Cocktail,Cocktail Classics,106,3,Lime Juice,0.5,oz
+Billy Taylor,Cocktail Classics,113,1,Lime Juice,0.5,oz
+Jack Rose Cocktail,Brandy,123,2,Lime Juice,0.5,oz
+Vodka Gimlet,Vodka,131,2,Lime Juice,1,oz
+After Dinner Cocktail,Cocktail Classics,159,3,Lime Juice,1,oz
+Saronno Rose,Cocktail Classics,184,2,Lime Juice,0.5,oz
+Frisco Sour,Whiskies,186,3,Lime Juice,0.5,oz
+Underneath The Mango Tree,Vodka,196,4,Lime Juice,0.75,oz
+Twister,Vodka,199,2,Lime Juice,0.5,oz
+Eastern Sour,Whiskies,206,3,Lime Juice,1,oz
+The Titian,Vodka,217,4,Lime Juice,0.5,oz
+Grenadine Rickey,Cocktail Classics,219,1,Lime Juice,0.5,oz
+Cotton Club Flip,Whiskies,248,3,Lime Juice,0.75,oz
+Chef's Pain,Vodka,261,2,Lime Juice,0.75,oz
+Purple Ruby,Vodka,281,4,Lime Juice,0.25,oz
+California Lemonade,Whiskies,289,3,Lime Juice,1,oz
+Boston Side Car,Cocktail Classics,290,4,Lime Juice,0.5,oz
+The Bone,Whiskies,302,2,Lime Juice,0.5,oz
+Bloody Scotsman,Whiskies,304,5,Lime Juice,3,oz
+Clover Leaf Cocktail,Cocktail Classics,335,1,Lime Juice,1,oz
+Chocolate Soldier,Cocktail Classics,340,1,Lime Juice,0.5,oz
+Cherry Wine Cocktail,Cocktail Classics,345,3,Lime Juice,0.5,oz
+Polynesian Cocktail,Vodka,348,4,Lime Juice,0.75,oz
+Pink Lemonade,Vodka,355,3,Lime Juice,0.25,oz
+September Morn Cocktail,Cocktail Classics,385,3,Lime Juice,0.5,oz
+Puerto Apple,Cocktail Classics,396,3,Lime Juice,1,oz
+Moscow Mule,Vodka,405,2,Lime Juice,0.5,oz
+Manila Fizz,Cocktail Classics,432,5,Lime Juice,0.5,oz
+Maracuya Mosquito,Vodka,434,4,Lime Juice,0.5,oz
+Royal Clover Club Cocktail,Cocktail Classics,449,1,Lime Juice,1,oz
+Rock & Rye Cooler,Cocktail Classics,452,3,Lime Juice,1,oz
+Red Swizzle,Cocktail Classics,455,1,Lime Juice,1,oz
+White Rose Cocktail,Cocktail Classics,469,3,Lime Juice,1,oz
+Katana,Vodka,476,4,Lime Juice,0.75,oz
+Daiquiri,Cocktail Classics,478,2,Lime Juice,0.75,oz
+Weep-No-More Cocktail,Cocktail Classics,480,1,Lime Juice,0.5,oz
+Tovarich Cocktail,Cocktail Classics,491,3,Lime Juice,0.5,oz
+Huntsman Cocktail,Vodka,497,3,Lime Juice,0.5,oz
+Limey,Cocktail Classics,504,4,Lime Juice,2,oz
+Grapefruit Gimlet Royale,Vodka,525,3,Lime Juice,0.25,oz
+Frozen Apple,Cocktail Classics,548,2,Lime Juice,1,oz
+Cubeltini,Vodka,566,5,Lime Juice,1,oz
+Cosmopolitan,Vodka,568,2,Lime Juice,0.5,oz
+Citronella Cooler,Vodka,572,2,Lime Juice,1,oz
+New Orleans Gin Fizz,Cocktail Classics,575,2,Lime Juice,0.5,oz
+Zombie,Rum - Daiquiris,577,4,Lime Juice,1,oz
+The Vacation Cocktail,Rum - Daiquiris,596,2,Lime Juice,0.75,oz
+Three Miller Cocktail,Rum - Daiquiris,609,3,Lime Juice,1,oz
+Tahiti Club,Rum - Daiquiris,615,3,Lime Juice,0.5,oz
+Susie Taylor,Rum - Daiquiris,618,2,Lime Juice,0.5,oz
+Sunset at Gowanus,Rum - Daiquiris,622,2,Lime Juice,0.75,oz
+Buckjones,Cocktail Classics,625,3,Lime Juice,0.5,oz
+Apricot Lady,Cocktail Classics,635,4,Lime Juice,1,oz
+Sloppy Joe's Cocktail No. 1,Rum - Daiquiris,638,4,Lime Juice,1,oz
+Saxon Cocktail,Rum - Daiquiris,642,2,Lime Juice,0.5,oz
+Santiago Cocktail,Rum - Daiquiris,645,2,Lime Juice,1,oz
+S & V,Rum - Daiquiris,652,4,Lime Juice,0.5,oz
+Rum Swizzle,Rum - Daiquiris,656,2,Lime Juice,1,oz
+Acapulco,Cocktail Classics,660,2,Lime Juice,1,oz
+Rum Rickey,Rum - Daiquiris,664,2,Lime Juice,0.5,oz
+Rum Collins,Rum - Daiquiris,674,2,Lime Juice,1,oz
+Rio Fix,Rum - Daiquiris,678,4,Lime Juice,0.75,oz
+Restless Native,Rum - Daiquiris,680,3,Lime Juice,1.5,oz
+Quarter Deck Cocktail,Rum - Daiquiris,681,3,Lime Juice,0.5,oz
+Cuban Cocktail No. 2,Brandy,684,4,Lime Juice,0.5,oz
+Planter's Punch No. 2,Rum - Daiquiris,688,3,Lime Juice,1,oz
+Planter's Punch No. 1,Rum - Daiquiris,689,2,Lime Juice,2,oz
+Pink Creole,Rum - Daiquiris,692,2,Lime Juice,0.5,oz
+Pearl Button,Rum - Daiquiris,695,3,Lime Juice,0.5,oz
+Paris When It Sizzles,Rum - Daiquiris,697,3,Lime Juice,0.5,oz
+The Old Cuban,Rum - Daiquiris,700,3,Lime Juice,0.75,oz
+"Oh, Gosh!",Rum - Daiquiris,701,3,Lime Juice,1,oz
+Nevada Cocktail,Rum - Daiquiris,704,3,Lime Juice,0.75,oz
+Margarita,Cocktail Classics,708,3,Lime Juice,0.75,oz
+Bloody Mary,Vodka,728,3,Lime Juice,0.25,oz
+The Big Crush,Vodka,740,4,Lime Juice,0.5,oz
+Bianca,Vodka,741,4,Lime Juice,0.25,oz
+Basil 8,Vodka,744,4,Lime Juice,0.75,oz
+Aqueduct,Vodka,746,2,Lime Juice,0.75,oz
+Waiting On Summer,Tequila,753,3,Lime Juice,0.5,oz
+Viva Villa,Tequila,756,3,Lime Juice,1,oz
+Vagabundo,Tequila,760,4,Lime Juice,0.5,oz
+The 21st Century,Tequila,761,4,Lime Juice,0.75,oz
+Tia Juanathan,Tequila,767,2,Lime Juice,0.5,oz
+Passion Daiquiri Cocktail,Cocktail Classics,771,2,Lime Juice,1,oz
+Tequila Smash,Tequila,777,5,Lime Juice,0.5,oz
+Tequila Mockingbird,Tequila,781,5,Lime Juice,1,oz
+Tequila Matador,Tequila,782,3,Lime Juice,0.5,oz
+Strawberry Margarita,Tequila,792,6,Lime Juice,0.75,oz
+Spice Of Life,Tequila,795,5,Lime Juice,0.75,oz
+South Of The Border,Tequila,798,3,Lime Juice,0.5,oz
+Smoked Margarita,Tequila,801,5,Lime Juice,0.5,oz
+Sloe Tequila,Shooters,802,3,Lime Juice,0.5,oz
+Orange Gin Rickey,Cocktail Classics,807,1,Lime Juice,0.5,oz
+Sidewinder,Tequila,811,4,Lime Juice,0.5,oz
+Sea Of Cortez,Tequila,818,2,Lime Juice,1,oz
+Satin Sheets,Tequila,819,4,Lime Juice,0.75,oz
+Santana Sling,Tequila,820,4,Lime Juice,0.5,oz
+The Refuge,Tequila,824,3,Lime Juice,0.25,oz
+Mamie Taylor,Cocktail Classics,826,1,Lime Juice,0.5,oz
+Purple Pancho,Tequila,829,5,Lime Juice,2,oz
+Midnight Express,Rum - Daiquiris,830,3,Lime Juice,0.75,oz
+Martinique Rose,Rum - Daiquiris,834,3,Lime Juice,0.75,oz
+Mai-Tai (Trader Vic Version),Rum - Daiquiris,839,3,Lime Juice,1,oz
+Jersey Lightning Cocktail,Cocktail Classics,840,3,Lime Juice,1,oz
+Look Out Below,Rum - Daiquiris,846,2,Lime Juice,0.5,oz
+Hop Toad Cocktail,Cocktail Classics,850,1,Lime Juice,0.5,oz
+La Vita Dulce,Rum - Daiquiris,852,3,Lime Juice,0.75,oz
+Ko Adang,Rum - Daiquiris,854,6,Lime Juice,0.5,oz
+Jamaican Ginger,Rum - Daiquiris,858,4,Lime Juice,0.5,oz
+Jade,Rum - Daiquiris,863,2,Lime Juice,0.5,oz
+Jacqueline,Rum - Daiquiris,864,3,Lime Juice,1,oz
+Hush and Wonder,Rum - Daiquiris,868,3,Lime Juice,0.75,oz
+Gimlet Cocktail,Cocktail Classics,870,1,Lime Juice,1,oz
+Hurricane,Rum - Daiquiris,871,3,Lime Juice,1,oz
+Hop Toad,Rum - Daiquiris,872,3,Lime Juice,0.5,oz
+The Holy Roller,Rum - Daiquiris,873,2,Lime Juice,0.75,oz
+Fallen Angel Cocktail,Cocktail Classics,880,1,Lime Juice,1,oz
+Hai Karate,Rum - Daiquiris,882,2,Lime Juice,1,oz
+Grande Guignol,Rum - Daiquiris,886,4,Lime Juice,0.75,oz
+Ginger Grapefruit Rickey,Rum - Daiquiris,895,4,Lime Juice,0.5,oz
+Daiquiri Cocktail,Cocktail Classics,897,1,Lime Juice,1,oz
+Cuban Special Cocktail,Cocktail Classics,899,2,Lime Juice,0.5,oz
+Gaugin,Rum - Daiquiris,900,3,Lime Juice,0.5,oz
+The Nomad South,Tequila,901,5,Lime Juice,0.5,oz
+Mexicola,Tequila,905,2,Lime Juice,0.5,oz
+Floridita No. 3,Rum - Daiquiris,906,2,Lime Juice,0.75,oz
+Floridita No. 1,Rum - Daiquiris,908,2,Lime Juice,0.5,oz
+Mexican Madras,Tequila,909,4,Lime Juice,0.25,oz
+Chocolate Soldier Cocktail,Cocktail Classics,911,1,Lime Juice,0.5,oz
+Fireman's Sour,Rum - Daiquiris,912,2,Lime Juice,2,oz
+Mexican Firing Squad,Tequila,917,3,Lime Juice,0.75,oz
+Margarita Tequila,Shooters,920,4,Lime Juice,0.75,oz
+Lillypad,Tequila,921,4,Lime Juice,0.75,oz
+La Ultima Palabra,Tequila,923,3,Lime Juice,0.75,oz
+High Plains Drifter No. 1,Tequila,930,3,Lime Juice,0.75,oz
+Dirty Daisy,Tequila,942,5,Lime Juice,1,oz
+Diablo,Tequila,943,3,Lime Juice,0.5,oz
+Chupa Cabra,Tequila,946,3,Lime Juice,0.5,oz
+Boston Sidecar Cocktail,Cocktail Classics,950,4,Lime Juice,0.5,oz
+Cactus Berry,Tequila,953,5,Lime Juice,0.25,oz
+Bum's Rush,Tequila,955,4,Lime Juice,1,oz
+Blue Margarita,Tequila,957,4,Lime Juice,1,oz
+Pineapple Dream Cocktail,Cocktail Classics,959,2,Lime Juice,0.5,oz
+Amante Picante,Tequila,963,4,Lime Juice,1,oz
+The Winkle,Gin,975,3,Lime Juice,1,oz
+Wallis Blue Cocktail,Gin,986,4,Lime Juice,1,oz
+Vow Of Silence,Gin,990,3,Lime Juice,0.5,oz
+Gauguin,Cocktail Classics,1,3,Lemon Juice,1,oz
+John Collins,Whiskies,6,2,Lemon Juice,1,oz
+Amber Amour,Cordials and Liqueurs,10,2,Lemon Juice,0.25,oz
+The Joe Lewis,Whiskies,11,4,Lemon Juice,0.5,oz
+Apple Pie No. 1,Cocktail Classics,13,5,Lemon Juice,1,oz
+Why Not?,Cocktail Classics,16,4,Lemon Juice,1,oz
+What The Hell,Cocktail Classics,18,4,Lemon Juice,1,oz
+Amaretto Sour,Cordials and Liqueurs,25,2,Lemon Juice,0.75,oz
+Spring Feeling Cocktail,Cocktail Classics,29,1,Lemon Juice,1,oz
+Jitterbug Sour,Whiskies,31,3,Lemon Juice,0.75,oz
+Smile Cocktail,Cocktail Classics,36,3,Lemon Juice,0.5,oz
+Amaretto Rose,Cordials and Liqueurs,37,2,Lemon Juice,0.5,oz
+Resolute Cocktail,Cocktail Classics,42,1,Lemon Juice,0.25,oz
+Monte Carlo Imperial Highball,Cocktail Classics,51,3,Lemon Juice,0.25,oz
+Irish Shillelagh,Whiskies,52,4,Lemon Juice,1,oz
+Melon Cocktail,Cocktail Classics,53,2,Lemon Juice,0.25,oz
+Maiden's Prayer,Cocktail Classics,58,3,Lemon Juice,1,oz
+London Buck,Cocktail Classics,60,2,Lemon Juice,0.5,oz
+Leap Frog Highball,Cocktail Classics,61,1,Lemon Juice,0.5,oz
+K. G. B. Cocktail,Cocktail Classics,65,4,Lemon Juice,0.25,oz
+Imperial Fizz,Whiskies,66,3,Lemon Juice,1,oz
+Greenback,Cocktail Classics,76,3,Lemon Juice,1,oz
+Gin Sling,Cocktail Classics,80,3,Lemon Juice,0.5,oz
+West Side,Vodka,85,2,Lemon Juice,0.75,oz
+Free Silver,Cocktail Classics,87,1,Lemon Juice,0.25,oz
+Favorite Cocktail,Cocktail Classics,93,4,Lemon Juice,0.25,oz
+Warsaw Cocktail,Vodka,95,4,Lemon Juice,1,oz
+Hole-In-One,Whiskies,101,3,Lemon Juice,0.25,oz
+Vodka Sour,Vodka,116,3,Lemon Juice,0.75,oz
+Apricot Anisette Collins,Cocktail Classics,117,4,Lemon Juice,1,oz
+Adam and Eve,Cocktail Classics,121,4,Lemon Juice,1,oz
+Vodka Sling,Vodka,122,2,Lemon Juice,1,oz
+Singapore Sling,Cocktail Classics,127,1,Lemon Juice,0.5,oz
+Saratoga Cocktail,Cocktail Classics,128,3,Lemon Juice,1,oz
+Polonaise,Cocktail Classics,130,4,Lemon Juice,1,oz
+Hebrides,Whiskies,135,5,Lemon Juice,0.5,oz
+Hennessy Martini,Cocktail Classics,136,2,Lemon Juice,0.5,oz
+Vodka Daisy,Vodka,137,2,Lemon Juice,1,oz
+Heavenly Dram,Whiskies,138,3,Lemon Juice,0.75,oz
+Classic Cocktail,Cocktail Classics,139,1,Lemon Juice,0.25,oz
+Cherry Sling,Cocktail Classics,140,2,Lemon Juice,0.5,oz
+Cherry Fizz,Cocktail Classics,141,1,Lemon Juice,0.5,oz
+Heather's Kiss,Whiskies,147,2,Lemon Juice,0.5,oz
+Vodka Collins,Vodka,151,2,Lemon Juice,0.75,oz
+Brandy Crusta Cocktail,Cocktail Classics,152,3,Lemon Juice,1,oz
+Apricot Cocktail,Cocktail Classics,157,1,Lemon Juice,0.25,oz
+Red Raider,Cocktail Classics,161,3,Lemon Juice,1,oz
+Victory Collins,Vodka,168,3,Lemon Juice,1,oz
+Bourbon Cobbler,Cocktail Classics,171,2,Lemon Juice,1,oz
+Yellowjacket,Non-alcoholic Drinks,174,3,Lemon Juice,0.5,oz
+Velvet Peach Hammer,Vodka,175,4,Lemon Juice,0.5,oz
+Goldrush,Whiskies,177,2,Lemon Juice,0.75,oz
+Frisco Sour,Whiskies,186,2,Lemon Juice,0.75,oz
+Francis The Mule,Whiskies,188,3,Lemon Juice,0.5,oz
+The Final Ward,Whiskies,191,4,Lemon Juice,0.75,oz
+Mandarine Sour,Cocktail Classics,194,2,Lemon Juice,1,oz
+Honeymoon Cocktail,Brandy,198,3,Lemon Juice,0.75,oz
+Toasted Drop,Vodka,205,5,Lemon Juice,0.75,oz
+K. C. B. Cocktail,Cocktail Classics,207,4,Lemon Juice,0.25,oz
+Double Standard Sour,Whiskies,214,3,Lemon Juice,1,oz
+Thyme Collins,Vodka,220,3,Lemon Juice,1,oz
+Harvard Cocktail,Brandy,225,3,Lemon Juice,0.5,oz
+Surf Rider,Vodka,227,4,Lemon Juice,0.5,oz
+Dinah Cocktail,Whiskies,228,2,Lemon Juice,0.75,oz
+Stupid Cupid,Vodka,234,4,Lemon Juice,1,oz
+Stockholm 75,Vodka,236,4,Lemon Juice,0.75,oz
+The Delmarva Cocktail,Whiskies,237,4,Lemon Juice,0.5,oz
+Daisy Dueller,Whiskies,243,2,Lemon Juice,0.75,oz
+Sidecar,Cocktail Classics,250,3,Lemon Juice,0.5,oz
+Shalom,Vodka,251,6,Lemon Juice,0.5,oz
+Commodore Cocktail,Whiskies,252,3,Lemon Juice,0.5,oz
+Dr. Cook,Cocktail Classics,258,2,Lemon Juice,1,oz
+Chi-Town Flip,Whiskies,260,3,Lemon Juice,0.75,oz
+Rouxby Red,Vodka,269,3,Lemon Juice,0.25,oz
+Rosemary Clementine Sparkle,Vodka,270,3,Lemon Juice,0.75,oz
+Chapel Hill,Whiskies,271,3,Lemon Juice,0.5,oz
+Gilroy Cocktail,Brandy,276,4,Lemon Juice,0.5,oz
+Redhead Martini,Vodka,277,2,Lemon Juice,0.75,oz
+Red Apple,Vodka,278,3,Lemon Juice,0.5,oz
+Canal Street Daisy,Whiskies,279,3,Lemon Juice,0.75,oz
+Canadian Cherry,Whiskies,282,4,Lemon Juice,0.5,oz
+Purple Passion Iced Tea,Vodka,284,6,Lemon Juice,0.75,oz
+Canadian Breeze,Whiskies,285,3,Lemon Juice,0.5,oz
+Cameron's Kick Cocktail,Whiskies,287,3,Lemon Juice,0.5,oz
+California Lemonade,Whiskies,289,2,Lemon Juice,1,oz
+Cablegram,Whiskies,291,2,Lemon Juice,1,oz
+Bull And Bear,Whiskies,292,3,Lemon Juice,1,oz
+Brighton Punch,Whiskies,294,5,Lemon Juice,1,oz
+Bourbon Renewal,Whiskies,295,2,Lemon Juice,1,oz
+Bourbon Crusta,Whiskies,298,5,Lemon Juice,1,oz
+Bourbon Cooler,Whiskies,299,2,Lemon Juice,0.5,oz
+Pike's Peak Cooler,Cocktail Classics,308,2,Lemon Juice,0.5,oz
+Pacman,Cocktail Classics,310,1,Lemon Juice,2,oz
+Lemonade (Golden),Cocktail Classics,311,1,Lemon Juice,1,oz
+Lemonade (Egg),Cocktail Classics,313,1,Lemon Juice,1,oz
+Chocolate Daisy,Cocktail Classics,315,1,Lemon Juice,0.5,oz
+Creme de Gin Cocktail,Cocktail Classics,318,4,Lemon Juice,2,oz
+Cornell Cocktail,Cocktail Classics,325,1,Lemon Juice,0.5,oz
+Basin Street,Whiskies,327,3,Lemon Juice,0.75,oz
+Cognac Coupling,Cocktail Classics,329,4,Lemon Juice,1,oz
+Coffee Sour,Cocktail Classics,330,2,Lemon Juice,1,oz
+Clover Club Cocktail,Cocktail Classics,336,1,Lemon Juice,1,oz
+Chicago Fizz,Cocktail Classics,343,1,Lemon Juice,0.5,oz
+Pretty In Pink,Vodka,344,4,Lemon Juice,0.75,oz
+Canadian Pineapple,Cocktail Classics,353,3,Lemon Juice,1,oz
+Calm Voyage,Cocktail Classics,354,4,Lemon Juice,2,oz
+Pink Lemonade,Vodka,355,4,Lemon Juice,0.25,oz
+Silver King Cocktail,Cocktail Classics,373,2,Lemon Juice,0.25,oz
+Silver Fizz,Cocktail Classics,375,1,Lemon Juice,0.5,oz
+Sherry Twist Cocktail,Cocktail Classics,376,5,Lemon Juice,0.5,oz
+Allegheny,Whiskies,383,4,Lemon Juice,0.5,oz
+Peach Iced Tea,Vodka,386,3,Lemon Juice,0.75,oz
+Pink Rose Fizz,Cocktail Classics,391,1,Lemon Juice,0.5,oz
+Ninotchka Cocktail,Vodka,392,3,Lemon Juice,0.25,oz
+Akogare,Whiskies,397,4,Lemon Juice,0.75,oz
+Prado,Cocktail Classics,398,2,Lemon Juice,0.75,oz
+Nijinksy Blini,Vodka,401,4,Lemon Juice,0.25,oz
+Ping-Pong Cocktail,Cocktail Classics,404,1,Lemon Juice,0.25,oz
+Affinity Cocktail,Whiskies,407,3,Lemon Juice,0.75,oz
+Peach Blow Fizz,Cocktail Classics,409,1,Lemon Juice,0.5,oz
+Peach Blossom,Cocktail Classics,410,1,Lemon Juice,1,oz
+Palmer Cocktail,Cocktail Classics,413,3,Lemon Juice,0.5,oz
+Mr. 404,Vodka,414,3,Lemon Juice,0.75,oz
+Mountain Cocktail,Cocktail Classics,415,2,Lemon Juice,0.25,oz
+Morning Glory Fizz,Cocktail Classics,416,1,Lemon Juice,0.5,oz
+Adderly Cocktail,Whiskies,417,4,Lemon Juice,0.75,oz
+Montreal Gin Sour,Cocktail Classics,419,2,Lemon Juice,1,oz
+Miss Jones,Vodka,421,2,Lemon Juice,1,oz
+Mint Collins,Cocktail Classics,423,1,Lemon Juice,0.5,oz
+Merry Widow Fizz,Cocktail Classics,428,2,Lemon Juice,0.5,oz
+May Blossom Fizz,Cocktail Classics,429,2,Lemon Juice,0.5,oz
+19th Century,Whiskies,431,2,Lemon Juice,0.75,oz
+Rum Dubonnet,Cocktail Classics,443,3,Lemon Juice,1,oz
+Ruby Fizz,Cocktail Classics,444,1,Lemon Juice,0.5,oz
+Limoncello Manzanilla Marmalade Sour,Vodka,445,4,Lemon Juice,0.75,oz
+Royal Gin Fizz,Cocktail Classics,447,1,Lemon Juice,0.5,oz
+Royal Cocktail,Cocktail Classics,448,2,Lemon Juice,0.5,oz
+Lights On The Plaza,Vodka,450,2,Lemon Juice,0.5,oz
+Lemon Drop,Vodka,456,3,Lemon Juice,0.75,oz
+Rebel Charge,Cocktail Classics,457,4,Lemon Juice,1,oz
+Rattlesnake Cocktail,Cocktail Classics,458,3,Lemon Juice,1,oz
+Ramos Fizz,Cocktail Classics,459,1,Lemon Juice,0.5,oz
+Lemon Crush,Vodka,463,5,Lemon Juice,1,oz
+Kretchma Cocktail,Vodka,473,3,Lemon Juice,0.25,oz
+Jungle Juice,Vodka,481,4,Lemon Juice,1,oz
+Waterbury Cocktail,Cocktail Classics,484,2,Lemon Juice,0.25,oz
+Jackie-O,Vodka,488,5,Lemon Juice,0.5,oz
+Tequila Fizz,Cocktail Classics,498,3,Lemon Juice,1,oz
+Tequila Cocktail,Cocktail Classics,500,2,Lemon Juice,0.5,oz
+Love Cocktail,Cocktail Classics,506,3,Lemon Juice,0.5,oz
+Los Angeles Cocktail,Cocktail Classics,507,1,Lemon Juice,0.5,oz
+Long Island Tea,Cocktail Classics,508,5,Lemon Juice,0.5,oz
+Leap Year Cocktail,Cocktail Classics,514,4,Lemon Juice,0.25,oz
+Lady Love Fizz,Cocktail Classics,516,2,Lemon Juice,0.5,oz
+Grape Nehi,Vodka,523,3,Lemon Juice,1,oz
+Hole-in-One Cocktai,Cocktail Classics,524,3,Lemon Juice,0.25,oz
+Hair Raiser,Cocktail Classics,526,3,Lemon Juice,1,oz
+Green Fizz,Cocktail Classics,530,3,Lemon Juice,0.5,oz
+Grape Vodka Froth,Cocktail Classics,532,4,Lemon Juice,1,oz
+Grapefruit Nog,Cocktail Classics,533,3,Lemon Juice,1,oz
+Golden Frappe,Cocktail Classics,536,2,Lemon Juice,2,oz
+Golden Fizz,Cocktail Classics,538,1,Lemon Juice,0.5,oz
+Gloom Lifter,Cocktail Classics,539,3,Lemon Juice,0.5,oz
+Georgia Mule,Vodka,542,3,Lemon Juice,0.5,oz
+Gables Collins,Vodka,546,3,Lemon Juice,0.5,oz
+Frozen Brandy and Rum,Cocktail Classics,547,3,Lemon Juice,1,oz
+Favourite Cocktail,Cocktail Classics,553,3,Lemon Juice,0.75,oz
+Electric Jam,Vodka,554,4,Lemon Juice,1,oz
+Duke Cocktail,Cocktail Classics,556,3,Lemon Juice,2,oz
+Dubonnet Fizz,Cocktail Classics,559,2,Lemon Juice,0.25,oz
+Doctor Cook,Cocktail Classics,561,2,Lemon Juice,1,oz
+Devil's Cocktail,Cocktail Classics,564,1,Lemon Juice,0.5,oz
+Derby Fizz,Cocktail Classics,565,1,Lemon Juice,0.5,oz
+Crocodile Cooler,Vodka,567,5,Lemon Juice,1,oz
+Japanese Fizz,Cocktail Classics,571,1,Lemon Juice,0.5,oz
+North Pole Cocktail,Cocktail Classics,573,2,Lemon Juice,0.5,oz
+New Orleans Gin Fizz,Cocktail Classics,575,1,Lemon Juice,0.5,oz
+Zombie,Rum - Daiquiris,577,4,Lemon Juice,1,oz
+Kiss the Boys Goodbye,Cocktail Classics,578,4,Lemon Juice,1,oz
+X.Y.Z. Cocktail,Rum - Daiquiris,579,3,Lemon Juice,0.5,oz
+K.G.B. Cocktail,Cocktail Classics,580,4,Lemon Juice,0.25,oz
+Elk's Own Cocktail,Cocktail Classics,583,4,Lemon Juice,0.25,oz
+Egg Sour,Cocktail Classics,585,3,Lemon Juice,0.5,oz
+White Lion Cocktail,Cocktail Classics,586,2,Lemon Juice,1,oz
+Van Vleet,Rum - Daiquiris,594,3,Lemon Juice,1,oz
+Vesuvio,Cocktail Classics,598,2,Lemon Juice,0.5,oz
+Verboten,Cocktail Classics,603,4,Lemon Juice,1,oz
+Boston Sour,Cocktail Classics,608,1,Lemon Juice,0.5,oz
+Bird-of-Paradise Fizz,Cocktail Classics,610,1,Lemon Juice,0.5,oz
+Biffy Cocktail,Cocktail Classics,611,1,Lemon Juice,0.5,oz
+Between-The-Sheets Cocktail,Cocktail Classics,612,1,Lemon Juice,0.25,oz
+Tahiti Club,Rum - Daiquiris,615,2,Lemon Juice,0.5,oz
+Depth Bomb,Brandy,630,3,Lemon Juice,1,oz
+Apricot Anise Collins,Cocktail Classics,636,4,Lemon Juice,1,oz
+Sir Walter Cocktail,Rum - Daiquiris,641,5,Lemon Juice,1,oz
+Applecar,Cocktail Classics,648,3,Lemon Juice,1,oz
+Apple Blow Fizz,Cocktail Classics,649,2,Lemon Juice,0.5,oz
+Deauville Cocktail,Brandy,654,4,Lemon Juice,0.5,oz
+After Supper Cocktail,Cocktail Classics,658,3,Lemon Juice,0.5,oz
+Rum Sour,Rum - Daiquiris,659,2,Lemon Juice,0.75,oz
+Rum Daisy,Rum - Daiquiris,671,2,Lemon Juice,0.5,oz
+Seaboabd,Cocktail Classics,675,3,Lemon Juice,1,oz
+Robson Cocktail,Rum - Daiquiris,677,2,Lemon Juice,0.5,oz
+Quaker's Cocktail,Rum - Daiquiris,682,3,Lemon Juice,0.5,oz
+Puerto Rican Rum Daisy,Rum - Daiquiris,683,3,Lemon Juice,0.75,oz
+Prohibition Punch,Rum - Daiquiris,685,5,Lemon Juice,0.25,oz
+Planter's Punch No. 2,Rum - Daiquiris,688,5,Lemon Juice,0.25,oz
+Planter's Cocktail,Rum - Daiquiris,690,2,Lemon Juice,0.5,oz
+Pineapple Cocktail,Rum - Daiquiris,694,3,Lemon Juice,0.5,oz
+The Crux,Brandy,696,4,Lemon Juice,0.75,oz
+Paddington,Rum - Daiquiris,699,5,Lemon Juice,0.5,oz
+New Orleans Buck,Rum - Daiquiris,703,3,Lemon Juice,0.5,oz
+Moonquake Shake,Rum - Daiquiris,705,3,Lemon Juice,0.25,oz
+Casco Bay Lemonade,Vodka,712,3,Lemon Juice,2,oz
+Thanksgiving Special Cocktail,Cocktail Classics,722,4,Lemon Juice,0.25,oz
+Bolshoi Punch,Vodka,725,2,Lemon Juice,0.75,oz
+Blue Lagoon,Vodka,726,3,Lemon Juice,0.5,oz
+Black Magic,Vodka,733,3,Lemon Juice,0.25,oz
+Victor Collins,Cocktail Classics,735,3,Lemon Juice,3,oz
+Violet Fizz,Cocktail Classics,737,1,Lemon Juice,0.5,oz
+Bikini,Vodka,738,3,Lemon Juice,0.5,oz
+Bianca,Vodka,741,6,Lemon Juice,1,oz
+Bella Fragolia,Vodka,742,4,Lemon Juice,1,oz
+Yellow Rose Of Texas,Tequila,750,2,Lemon Juice,0.75,oz
+Prince's Smile Cocktail,Cocktail Classics,755,4,Lemon Juice,0.25,oz
+Tequila Sour,Tequila,776,2,Lemon Juice,0.75,oz
+Tequila Collins,Tequila,787,2,Lemon Juice,0.5,oz
+Chicago Cocktail,Brandy,790,3,Lemon Juice,0.5,oz
+Sunday Confession,Tequila,791,3,Lemon Juice,0.5,oz
+Western Rose Cocktail,Cocktail Classics,793,4,Lemon Juice,0.25,oz
+Violet Fizz Juice,Cocktail Classics,800,1,Lemon Juice,0.5,oz
+Smoked Margarita,Tequila,801,4,Lemon Juice,0.5,oz
+Orange Milk Fizz,Cocktail Classics,806,1,Lemon Juice,0.5,oz
+Orange Gin Fizz,Cocktail Classics,809,1,Lemon Juice,0.5,oz
+Orange Gin Collins,Cocktail Classics,810,1,Lemon Juice,0.5,oz
+Cherry Blossom,Brandy,814,4,Lemon Juice,0.5,oz
+Mariposa Cocktail,Cocktail Classics,822,3,Lemon Juice,1,oz
+Purple Pancho,Tequila,829,6,Lemon Juice,1,oz
+Midnight Express,Rum - Daiquiris,830,4,Lemon Juice,0.25,oz
+Mariposa,Rum - Daiquiris,835,3,Lemon Juice,0.5,oz
+Mandeville,Rum - Daiquiris,836,3,Lemon Juice,0.5,oz
+K.C.B. Cocktail,Cocktail Classics,837,4,Lemon Juice,0.25,oz
+Malmaison,Rum - Daiquiris,838,4,Lemon Juice,1,oz
+Lumination,Rum - Daiquiris,841,5,Lemon Juice,1,oz
+Little Devil Cocktail,Rum - Daiquiris,848,3,Lemon Juice,0.5,oz
+Champs Elysees Cocktail,Brandy,849,3,Lemon Juice,0.5,oz
+Hole-in-One Cocktail,Cocktail Classics,853,3,Lemon Juice,0.25,oz
+Knickerbocker Special Cocktail,Rum - Daiquiris,855,3,Lemon Juice,1,oz
+Hair Raiser Cocktail,Cocktail Classics,856,3,Lemon Juice,1,oz
+Green Dragon Cocktail,Cocktail Classics,859,1,Lemon Juice,0.5,oz
+Irresistible,Rum - Daiquiris,866,4,Lemon Juice,0.25,oz
+Hurricane Leah,Rum - Daiquiris,869,4,Lemon Juice,1.5,oz
+Havana Cocktail,Rum - Daiquiris,877,3,Lemon Juice,0.25,oz
+Pina Agave,Tequila,885,4,Lemon Juice,0.75,oz
+Pacific Sunshine,Tequila,891,5,Lemon Juice,0.75,oz
+Golden Eclipse,Rum - Daiquiris,892,3,Lemon Juice,0.5,oz
+Oldest Temptation,Tequila,894,3,Lemon Juice,0.5,oz
+Gaugin,Rum - Daiquiris,900,2,Lemon Juice,0.5,oz
+Fog Cutter,Rum - Daiquiris,904,4,Lemon Juice,1.5,oz
+Cherry Blossom Cocktail,Cocktail Classics,914,5,Lemon Juice,2,oz
+Chelsea Sidecar Cocktail,Cocktail Classics,916,1,Lemon Juice,0.25,oz
+Mexicana,Tequila,918,2,Lemon Juice,1,oz
+X. Y. Z. Cocktail,Cocktail Classics,922,1,Lemon Juice,1,oz
+The Interesting Cocktail,Tequila,928,4,Lemon Juice,0.75,oz
+Cablegram Highball,Cocktail Classics,935,1,Lemon Juice,0.5,oz
+Company B,Tequila,945,5,Lemon Juice,0.5,oz
+Chapala,Tequila,948,3,Lemon Juice,0.75,oz
+Bulldog Cocktail,Brandy,949,3,Lemon Juice,0.5,oz
+Catalina Margarita,Tequila,951,5,Lemon Juice,2,oz
+Cactus Berry,Tequila,953,5,Lemon Juice,0.25,oz
+Bloody Maria,Tequila,958,3,Lemon Juice,0.25,oz
+Woodstock,Gin,972,2,Lemon Juice,1,oz
+White Spider,Gin,979,2,Lemon Juice,0.75,oz
+Western Rose,Gin,981,4,Lemon Juice,1,oz
+May Blosson Fizz,Cocktail Classics,982,2,Lemon Juice,0.5,oz
+Apple Pie Cocktail,Cocktail Classics,984,5,Lemon Juice,1,oz
+Water Lily,Gin,985,4,Lemon Juice,0.75,oz
+Fort Lauderdale,Cocktail Classics,2,3,Orange Juice,0.25,oz
+Yellow Rattler,Cocktail Classics,15,2,Orange Juice,1,oz
+Three Stripes Cocktail,Cocktail Classics,23,3,Orange Juice,1,oz
+Sweet Patootie Cocktail,Cocktail Classics,27,3,Orange Juice,1,oz
+Smiler Cocktail,Cocktail Classics,35,5,Orange Juice,0.25,oz
+Dixie Cocktail,Cocktail Classics,99,1,Orange Juice,0.25,oz
+Bulldog Highball,Cocktail Classics,104,1,Orange Juice,0.5,oz
+Bronx Cocktail (Dry),Cocktail Classics,107,3,Orange Juice,0.25,oz
+Apricot Cocktail,Cocktail Classics,157,2,Orange Juice,0.25,oz
+Yellowjacket,Non-alcoholic Drinks,174,2,Orange Juice,2,oz
+Top Banana,Vodka,202,3,Orange Juice,2,oz
+Eastern Sour,Whiskies,206,2,Orange Juice,1.5,oz
+Surf Rider,Vodka,227,3,Orange Juice,2,oz
+Sputnik,Vodka,238,3,Orange Juice,3,oz
+Sonic Blaster,Vodka,244,5,Orange Juice,1,oz
+Golden Dawn,Brandy,249,4,Orange Juice,1,oz
+Sidecar,Cocktail Classics,250,6,Orange Juice,0.5,oz
+Shalom,Vodka,251,3,Orange Juice,0.5,oz
+Screwdriver,Vodka,254,2,Orange Juice,5,oz
+Ruby Red,Vodka,267,4,Orange Juice,1,oz
+Canal Street Daisy,Whiskies,279,2,Orange Juice,1,oz
+Canadian Cherry,Whiskies,282,5,Orange Juice,0.5,oz
+Orange Smile,Cocktail Classics,283,2,Orange Juice,1,oz
+Brighton Punch,Whiskies,294,4,Orange Juice,2,oz
+Blood and Sand,Whiskies,306,4,Orange Juice,0.5,oz
+Creme de Gin Cocktail,Cocktail Classics,318,5,Orange Juice,2,oz
+Creamy Screwdriver,Cocktail Classics,319,3,Orange Juice,6,oz
+Creamy Orange,Cocktail Classics,320,1,Orange Juice,1,oz
+Creamsicle,Cocktail Classics,321,3,Orange Juice,3,oz
+Suntan,Cocktail Classics,361,2,Orange Juice,2,oz
+Soul Kiss Cocktail,Cocktail Classics,368,1,Orange Juice,1.5,oz
+Petit Zinc,Vodka,379,4,Orange Juice,0.5,oz
+Savannah,Cocktail Classics,390,1,Orange Juice,0.5,oz
+Merry Widow Fizz,Cocktail Classics,428,1,Orange Juice,0.5,oz
+Madras,Vodka,435,3,Orange Juice,1,oz
+Lychee Lucy,Vodka,437,3,Orange Juice,0.5,oz
+Rococo,Cocktail Classics,451,2,Orange Juice,1,oz
+Rebel Charge,Cocktail Classics,457,3,Orange Juice,1,oz
+L.A. Sunrise,Vodka,468,3,Orange Juice,2,oz
+White Rose Cocktail,Cocktail Classics,469,2,Orange Juice,1,oz
+Jungle Juice,Vodka,481,4,Orange Juice,1,oz
+Wedding Belle Cocktail,Cocktail Classics,482,1,Orange Juice,1.5,oz
+Waterloo,Cocktail Classics,483,2,Orange Juice,3,oz
+Twin Six Cocktail,Cocktail Classics,487,4,Orange Juice,1,oz
+Italian Screwdriver,Vodka,492,3,Orange Juice,3,oz
+Humpty Dumpty,Vodka,499,2,Orange Juice,1,oz
+Tahitian Tea,Cocktail Classics,503,6,Orange Juice,1,oz
+Harvey Wallbanger,Vodka,509,2,Orange Juice,4,oz
+Handball Cooler,Vodka,517,3,Orange Juice,0.5,oz
+Golden Frappe,Cocktail Classics,536,1,Orange Juice,1,oz
+Duke Cocktail,Cocktail Classics,556,2,Orange Juice,1,oz
+Dubonnet Fizz,Cocktail Classics,559,1,Orange Juice,0.5,oz
+Desert Sunrise,Vodka,562,2,Orange Juice,1.5,oz
+Wiki Waki Woo,Rum - Daiquiris,582,5,Orange Juice,1,oz
+The Vacation Cocktail,Rum - Daiquiris,596,5,Orange Juice,0.5,oz
+Verboten,Cocktail Classics,603,3,Orange Juice,1,oz
+Bulldog Highballl,Cocktail Classics,623,1,Orange Juice,0.5,oz
+Bucks Fizz (Mimosa),Cocktail Classics,624,1,Orange Juice,2,oz
+Bronx SIlver Cocktail,Cocktail Classics,627,1,Orange Juice,0.5,oz
+Applejack Punch,Cocktail Classics,639,3,Orange Juice,16,oz
+Rum Screwdriver,Rum - Daiquiris,663,2,Orange Juice,5,oz
+D'artagnan,Brandy,672,4,Orange Juice,0.5,oz
+Robson Cocktail,Rum - Daiquiris,677,3,Orange Juice,0.5,oz
+Puerto Rican Rum Daisy,Rum - Daiquiris,683,4,Orange Juice,0.5,oz
+Planter's Punch No. 2,Rum - Daiquiris,688,2,Orange Juice,2,oz
+New Orleans Buck,Rum - Daiquiris,703,2,Orange Juice,1,oz
+Boston Gold,Vodka,720,3,Orange Juice,2,oz
+Tequila Sunrise,Tequila,773,2,Orange Juice,4,oz
+Tequila Canyon,Tequila,789,5,Orange Juice,1,oz
+Orange Blossom Cocktail,Cocktail Classics,812,2,Orange Juice,1,oz
+Mariposa Cocktail,Cocktail Classics,822,4,Orange Juice,1,oz
+Mariposa,Rum - Daiquiris,835,4,Orange Juice,0.5,oz
+Jamaica Glow Cocktail,Cocktail Classics,842,3,Orange Juice,1,oz
+Knickerbocker Special Cocktail,Rum - Daiquiris,855,4,Orange Juice,1,oz
+Hurricane Leah,Rum - Daiquiris,869,5,Orange Juice,3,oz
+Hurricane,Rum - Daiquiris,871,4,Orange Juice,0.75,oz
+Harvest Nectar,Rum - Daiquiris,878,4,Orange Juice,1,oz
+Hai Karate,Rum - Daiquiris,882,4,Orange Juice,1,oz
+Calvados Cocktail,Brandy,896,2,Orange Juice,1.5,oz
+The Nomad South,Tequila,901,2,Orange Juice,1,oz
+Fog Cutter,Rum - Daiquiris,904,5,Orange Juice,1,oz
+Mexican Madras,Tequila,909,3,Orange Juice,1,oz
+La Bomba,Tequila,926,5,Orange Juice,1.5,oz
+Hairy Sunrise,Tequila,931,4,Orange Juice,3,oz
+Bucks Fizz,Cocktail Classics,941,1,Orange Juice,2,oz
+Chapala,Tequila,948,2,Orange Juice,1.5,oz
+Alamo Splash,Tequila,966,2,Orange Juice,1,oz
+Will Rogers,Gin,977,3,Orange Juice,0.5,oz
+Minnehaha Cocktail,Cocktail Classics,987,1,Orange Juice,0.25,oz
+Cool Carlos,Cocktail Classics,5,3,Pineapple Juice,2,oz
+Hawaiin Cocktail,Cocktail Classics,72,2,Pineapple Juice,1,oz
+Saratoga Cocktail,Cocktail Classics,128,4,Pineapple Juice,1,oz
+Yellowjacket,Non-alcoholic Drinks,174,1,Pineapple Juice,2,oz
+Jack-In-The-Box,Brandy,180,2,Pineapple Juice,1,oz
+Tiger Tanaka,Vodka,218,5,Pineapple Juice,0.75,oz
+Sonic Blaster,Vodka,244,4,Pineapple Juice,1,oz
+Canadian Breeze,Whiskies,285,2,Pineapple Juice,0.75,oz
+Back Porch Swizzle,Whiskies,352,3,Pineapple Juice,1,oz
+Canadian Pineapple,Cocktail Classics,353,2,Pineapple Juice,1,oz
+Algonquin,Whiskies,389,3,Pineapple Juice,1,oz
+Million-Dollar Cocktail,Cocktail Classics,424,1,Pineapple Juice,2,oz
+Lychee Lucy,Vodka,437,4,Pineapple Juice,0.5,oz
+L.A. Sunrise,Vodka,468,4,Pineapple Juice,2,oz
+Jungle Juice,Vodka,481,4,Pineapple Juice,1,oz
+East India Cocktail No. 1,Brandy,544,4,Pineapple Juice,0.5,oz
+Gables Collins,Vodka,546,4,Pineapple Juice,0.5,oz
+French Martini,Vodka,551,3,Pineapple Juice,0.75,oz
+Desert Sunrise,Vodka,562,3,Pineapple Juice,1.5,oz
+Wiki Waki Woo,Rum - Daiquiris,582,5,Pineapple Juice,1,oz
+Outrigger,Cocktail Classics,589,3,Pineapple Juice,1,oz
+Tropica Cocktail,Rum - Daiquiris,601,2,Pineapple Juice,3,oz
+Tahiti Club,Rum - Daiquiris,615,4,Pineapple Juice,0.5,oz
+Stormy Colada,Rum - Daiquiris,626,2,Pineapple Juice,2,oz
+Rum Relaxer,Rum - Daiquiris,666,2,Pineapple Juice,1,oz
+Rio Fix,Rum - Daiquiris,678,5,Pineapple Juice,0.5,oz
+Planter's Punch No. 2,Rum - Daiquiris,688,4,Pineapple Juice,0.5,oz
+Pink Paradise,Rum - Daiquiris,691,4,Pineapple Juice,1.5,oz
+Pineapple Fizz,Rum - Daiquiris,693,2,Pineapple Juice,1,oz
+Pineapple Cocktail,Rum - Daiquiris,694,2,Pineapple Juice,0.75,oz
+Caribbean Cruise,Vodka,713,5,Pineapple Juice,4,oz
+Alfie Cocktail,Vodka,748,2,Pineapple Juice,0.75,oz
+Vagabundo,Tequila,760,2,Pineapple Juice,1.5,oz
+Tequila Matador,Tequila,782,2,Pineapple Juice,2,oz
+Tequila Canyon,Tequila,789,4,Pineapple Juice,1,oz
+Mary Pickford Cocktail,Rum - Daiquiris,832,2,Pineapple Juice,0.75,oz
+Jack-in-the-Box Cocktail,Cocktail Classics,844,2,Pineapple Juice,1,oz
+Jamaican Crawler,Rum - Daiquiris,861,3,Pineapple Juice,3,oz
+Havana Cocktail,Rum - Daiquiris,877,2,Pineapple Juice,1.5,oz
+Harvest Nectar,Rum - Daiquiris,878,2,Pineapple Juice,1,oz
+Hai Karate,Rum - Daiquiris,882,3,Pineapple Juice,1,oz
+Pina Agave,Tequila,885,3,Pineapple Juice,1,oz
+Cuban Special Cocktail,Cocktail Classics,899,1,Pineapple Juice,1,oz
+Mexicana,Tequila,918,3,Pineapple Juice,0.5,oz
+La Bomba,Tequila,926,4,Pineapple Juice,1.5,oz
+Pineapple Dream Cocktail,Cocktail Classics,959,1,Pineapple Juice,0.5,oz
+Big Red Hooter,Tequila,960,3,Pineapple Juice,2,oz
+Alamo Splash,Tequila,966,3,Pineapple Juice,0.5,oz
+Waikiki Beachcomber,Gin,989,3,Pineapple Juice,0.5,oz
+Hebrides,Whiskies,135,4,Apple Juice,2,oz
+Red Apple,Vodka,278,2,Apple Juice,1,oz
+Oldest Temptation,Tequila,894,2,Apple Juice,1,oz
+Lillypad,Tequila,921,3,Apple Juice,1.5,oz
+Black Cherry Chocolate,Vodka,734,3,Black Cherry Juice,0.75,oz
+The Nomad South,Tequila,901,3,Blood Orange Juice,0.5,oz
+Blood Bronx Cocktail,Cocktail Classics,961,3,Blood Orange Juice,0.25,oz
+The Titian,Vodka,217,3,Passion Fruit Juice,1,oz
+Passion Mimosa,Cocktail Classics,411,1,Passion Fruit Juice,2,oz
+Maracuya Mosquito,Vodka,434,6,Passion Fruit Juice,1,oz
+Prohibition Punch,Rum - Daiquiris,685,3,Passion Fruit Juice,1,oz
+Passion Daiquiri Cocktail,Cocktail Classics,771,4,Passion Fruit Juice,1,oz
+Clamato Cocktail,Cocktail Classics,338,2,Clam Juice,1,oz
+Victory Collins,Vodka,168,2,Grape Juice,2,oz
+Purple Passion,Vodka,286,3,Grape Juice,2,oz
+Purple Mask,Vodka,333,2,Grape Juice,1,oz
+Lasky Cocktail,Cocktail Classics,515,1,Grape Juice,0.75,oz
+Grape Vodka Froth,Cocktail Classics,532,2,Grape Juice,1,oz
+Victor Collins,Cocktail Classics,735,2,Grape Juice,3,oz
+The Joe Lewis,Whiskies,11,2,Carrot Juice,1,oz
+Vagabundo,Tequila,760,3,Celery Juice,1.5,oz
+Greyhound,Cocktail Classics,74,2,Grapefruit Juice,5,oz
+Grapefruit Cocktail,Cocktail Classics,77,1,Grapefruit Juice,1,oz
+Blue Canary,Cocktail Classics,110,2,Grapefruit Juice,3,oz
+Bourbon Cobbler,Cocktail Classics,171,3,Grapefruit Juice,2,oz
+Gilchrist,Whiskies,185,3,Grapefruit Juice,0.75,oz
+Easterner,Whiskies,204,2,Grapefruit Juice,1,oz
+Sea Breeze,Vodka,253,3,Grapefruit Juice,1,oz
+Salty Dog,Vodka,257,3,Grapefruit Juice,5,oz
+Ruby Red,Vodka,267,3,Grapefruit Juice,1.5,oz
+Rouxby Red,Vodka,269,4,Grapefruit Juice,0.75,oz
+Purple Ruby,Vodka,281,3,Grapefruit Juice,0.5,oz
+Purple Passion,Vodka,286,2,Grapefruit Juice,2,oz
+Bourbon Cooler,Whiskies,299,3,Grapefruit Juice,0.5,oz
+The Blinker,Whiskies,307,2,Grapefruit Juice,1.5,oz
+Sunburn,Cocktail Classics,362,2,Grapefruit Juice,2,oz
+Italian Screwdriver,Vodka,492,4,Grapefruit Juice,2,oz
+Ibiza,Vodka,495,3,Grapefruit Juice,1,oz
+Grapefruit Gimlet Royale,Vodka,525,2,Grapefruit Juice,1,oz
+Grapefruit Nog,Cocktail Classics,533,2,Grapefruit Juice,0.5,oz
+The Cinquecento,Vodka,574,4,Grapefruit Juice,0.75,oz
+Tropica Cocktail,Rum - Daiquiris,601,3,Grapefruit Juice,1,oz
+A. J.,Cocktail Classics,657,2,Grapefruit Juice,1,oz
+Paddington,Rum - Daiquiris,699,4,Grapefruit Juice,0.5,oz
+Nevada Cocktail,Rum - Daiquiris,704,2,Grapefruit Juice,1,oz
+Shady Lady,Tequila,813,3,Grapefruit Juice,4,oz
+Shady Lady,Tequila,813,4,Grapefruit Juice,4,oz
+The Refuge,Tequila,824,4,Grapefruit Juice,0.25,oz
+Quetzalcoatl,Tequila,827,5,Grapefruit Juice,0.5,oz
+Martinique Rose,Rum - Daiquiris,834,4,Grapefruit Juice,0.75,oz
+Ginger Grapefruit Rickey,Rum - Daiquiris,895,2,Grapefruit Juice,2,oz
+Floridita No. 3,Rum - Daiquiris,906,3,Grapefruit Juice,0.5,oz
+La Ultima Palabra,Tequila,923,2,Grapefruit Juice,0.75,oz
+Jinx Cocktail,Tequila,927,4,Grapefruit Juice,1,oz
+Hot Pants,Tequila,929,4,Grapefruit Juice,0.5,oz
+Flower Power,Tequila,934,2,Grapefruit Juice,1,oz
+Chupa Cabra,Tequila,946,2,Grapefruit Juice,0.75,oz
+Wolf's Bite,Gin,973,2,Grapefruit Juice,1,oz
+Vow Of Silence,Gin,990,2,Grapefruit Juice,0.75,oz
+The Vacation Cocktail,Rum - Daiquiris,596,4,Mango Juice,1,oz
+Purple Ruby,Vodka,281,2,Pomegranate Juice,1.5,oz
+Bianca,Vodka,741,3,Pomegranate Juice,2,oz
+Love Cocktail,Cocktail Classics,506,4,Raspberry Juice,0.5,oz
+Bloody Scotsman,Whiskies,304,2,Tomato Juice,24,oz
+Clamato Cocktail,Cocktail Classics,338,3,Tomato Juice,3,oz
+Bloody Mary,Vodka,728,2,Tomato Juice,3,oz
+Bloody Bull,Vodka,730,2,Tomato Juice,2,oz
+Bloody Maria,Tequila,958,2,Tomato Juice,2,oz
+Caesar,Vodka,717,3,Tomato-Clam Juice,4,oz
+Bloody Scotsman,Whiskies,304,3,V8 Cocktail Juice,24,oz
+Blue Devil Cocktail,Cocktail Classics,109,2,Citrus Juice of Choice,0.75,oz
+Pink Pussycat,Vodka,351,2,Citrus Juice of Choice,2,oz
+Hot Shot Margarita,Cocktail Classics,520,3,Citrus Juice of Choice,1.5,oz
+Rum Fix,Rum - Daiquiris,670,2,Citrus Juice of Choice,1,oz
+Tequonic,Tequila,769,2,Citrus Juice of Choice,0.25,oz
+Margarita Cocktail,Cocktail Classics,823,3,Citrus Juice of Choice,1,oz
+Paloma (Natural),Tequila,888,2,Citrus Juice of Choice,2,oz
